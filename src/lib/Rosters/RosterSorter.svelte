@@ -51,16 +51,12 @@
 	.banner-D-1 {
 		background-image: url("/division-1-banner.png");
 		background-position: center;
-		height: 140px;
-		width: 140px;
-	}
+			}
 
 	.banner-D-2 {
 		background-image: url("/division-2-banner.png");
 		background-position: center; 
-		height: 1400px;
-		width: 140px;
-	}
+			}
 
 	.banner-D-3 {
 		background-image: url("/division-3-banner.png");
