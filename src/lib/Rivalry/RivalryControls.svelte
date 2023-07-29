@@ -6,13 +6,13 @@
     const nav = (dir) => {
         if(dir === "left") {
             if(selected > 0) {
-                selected--;
+                selected++;
             } else {
                 selected = length - 1;
             }
         } else {
             if(selected < length - 1) {
-                selected++;
+                selected--;
             } else {
                 selected = 0;
             }
