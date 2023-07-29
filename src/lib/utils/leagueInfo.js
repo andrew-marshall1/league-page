@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Founded in 2021, this dyansty league was created to provide a group of avid fantasy football players a new challenge and way to stay in touch through out the year. Each season, the managers compete to win the League Trophy and Ring while trying to avoid the ever-humiliating Toilet Bowl.</p>
   <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $1,500 and their very own championship ring.</p>
+  <p></p>
 
 `;
 
