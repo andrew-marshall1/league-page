@@ -209,8 +209,6 @@
     <h3 bind:this={oneThree}>1.3 Waiver Wire</h3>
     
     <p>Rolling Waiver wire system. Bids will process Wednesday at 1 AM. Players are on waivers for 2 days after being dropped.</p>
-
-    <p>FAAB budgets will reset each season in January.</p>
     
     
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
