@@ -7,8 +7,8 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The Haynes Mechanical Fantasy Football League was establish to bring comradarie and competition to Haynes Mechanical. Each season, the managers compete to win the League Trophy and Ring while trying to avoid the ever-humiliating Toilet Bowl and Ted-Gregory award for last place.</p>
-  <p>This website is desgined to help capture the history of the league since moving to the Sleeper app in 2020. It will also help provide the foundation for even more trash talking through the Rivalry page and team comparisions.</p>
+  <p>The Haynes Mechanical Fantasy Football League was establish to bring to bring even more competition to Haynes Mechanical. Each season, the managers compete to win the League Trophy while trying to avoid the ever-humiliating Toilet Bowl and Ted-Gregory award for last place.</p>
+  <p>This website is designed to help capture the history of the league since moving to the Sleeper app in 2020. It will also help provide the foundation for even more trash talking through the Rivalry page and team comparisions.</p>
   <p>While the ultimate prize is bragging rights and holding that victory over co-workers & family members for the next year, the champion manager also walks away with $1,500 and their very own championship ring</p>
 `;
 
