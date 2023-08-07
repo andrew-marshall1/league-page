@@ -4,7 +4,7 @@
     export let year, displayWeek, selected, length;
 
     const nav = (dir) => {
-        if(dir === "left") {
+        if(dir === "right") {
             if(selected > 0) {
                 selected--;
             } else {
