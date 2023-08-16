@@ -1,7 +1,7 @@
 /*   STEP 1   */
 export const leagueID = "986650674270162944"; // your league ID
 export const leagueName = "Haynes Mechanical Fantasy Football"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const dues = 150; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
